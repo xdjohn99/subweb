@@ -231,6 +231,11 @@ export default {
             label: "customized",
             options: [
               {
+                label: "XDJ",
+                value:
+                  "https://raw.githubusercontent.com/xdjohn99/xdjc/main/fenliu1.ini"
+              },
+              {
                 label: "Maying",
                 value:
                   "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/maying.ini"
